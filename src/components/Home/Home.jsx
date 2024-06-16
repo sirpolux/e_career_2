@@ -86,7 +86,7 @@ export const Home = () => {
             <span>Embarking on a career journey is like setting sail on an ocean of opportunities, each wave holding the promise of discovery and growth. At the heart of career counseling lies the compass that guides you through these waters, helping you navigate towards your true north - a fulfilling and rewarding career path</span>
           </div>
           {/* section four */}
-          <div className='flex p-4 pl-0 flex-col md:flex-row justify-center items-center  md:justify-start mb-4'>
+          <div className='flex md:p-4 pl-0 flex-col md:flex-row justify-center items-center  md:justify-start mb-4'>
             <div className='flex-1 p-4'>
               <p className='p-2 text-[1rem]'>Welcome To Our free Online career guidance and councelling website</p>
               <div className='border-gray-200 border-8 rounded-md'>
@@ -101,7 +101,7 @@ export const Home = () => {
               Together, we'll embark on a voyage of discovery, uncovering hidden talents, exploring new horizons, and overcoming challenges along the way. Whether you're a recent graduate embarking on your maiden voyage or a seasoned professional seeking new shores, our doors are open to guide you towards a destination where passion meets purpose.
               </div> */}
             </div>
-            <div className='flex-1 shadow-sm  p-4 rounded-lg overflow-auto md:max-h-[500px] py-5 bg-white'>
+            <div className='flex-1 shadow-sm w-full p-4 rounded-lg overflow-auto md:max-h-[500px] py-5 bg-white'>
                 <div>
                   <h2 className='mb-4 font-bold text-xl'>SIGN UP</h2>
                 </div>
