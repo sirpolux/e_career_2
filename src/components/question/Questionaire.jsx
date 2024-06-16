@@ -214,7 +214,6 @@ export const Questionaire = () => {
     
   return (
     <div className='pb-12'>
-        <Menu/>
         <div className='flex w-full justify-center'>
             <div className='w-full max-w-4xl mx-auto mt-10 p-6 border rounded-lg shadow-md py-8'>
                  <p className='text-lg font-bold text-gray-800'>The student free career test. Takes about 10 minutes</p>
