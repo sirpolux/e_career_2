@@ -18,7 +18,9 @@ const Dashboard = () => {
                   <div className="bg-white p-6 rounded-lg shadow-md text-center">
                       <h2 className="text-2xl font-semibold mb-4">Attempt Questions</h2>
                       <p className="mb-4">Answer questions to help us understand your career interests.</p>
+                      <Link to='/student/questionnaire-index'>
                         <a  className=" cursor-pointer px-4 py-2 bg-blue-500 text-white font-semibold rounded">Start Now</a>
+                        </Link>
                   </div>
 
                 
